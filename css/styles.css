@@ -574,7 +574,7 @@ footer{
     border: solid 2px gold;
    }
    .local-grid section{
-    margin: 5px;
+    margin-bottom: 5px;
    }
    .local-grid article{
    background-color: rgb(70, 70, 70);
