@@ -551,14 +551,19 @@ footer{
 
     /* Pagina Local */
 .local-grid{
+    display: grid;
     grid-template-columns: 100vw;
-    grid-template-rows: repeat(5, 35vh);
+    grid-template-rows: repeat(8, 40vh);
     grid-template-areas:
     "noti1"
     "noti2"
     "noti3"
     "noti4"
-    "aside";
+    "aside1"
+    "aside2"
+    "aside3"
+    "aside4"
+    "aside-v";
     box-sizing: border-box;
     justify-content: center;
     gap: 5px;
