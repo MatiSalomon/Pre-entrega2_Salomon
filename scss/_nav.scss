@@ -1,0 +1,36 @@
+/* INICIO NAV */
+nav{
+    background-image: url(../img/nav/imagen1.jpg);
+}
+.navegador{
+    display: flex;
+    width: 100%;
+}
+.navegador ul{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+}
+.nav-color ul li a{
+    color: white;
+}
+.nav-color ul li a:hover{
+    color: gold;
+}
+.bg-btn{
+    color:gold;
+    border:solid 1px ;color: gold;
+}
+.bg-btn:hover{
+    background-color: gold;
+    color: black;
+  
+}
+
+.navbar-color{
+    background-color: gold;
+}
+.color{
+   background-color: white;
+}
+/* TERMINA NAV */
